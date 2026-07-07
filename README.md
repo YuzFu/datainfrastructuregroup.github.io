@@ -2,6 +2,9 @@
 
 Static website built with Eleventy (11ty) for an interdisciplinary research group focused on restorative and transformative data science.
 
+## 7/7
+Making a change to run github action 
+
 ## Getting Started
 
 ### Prerequisites
